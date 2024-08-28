@@ -26,5 +26,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![WhatsApp Image 2024-08-25 at 20 01 18_6da4651d](https://github.com/user-attachments/assets/dec965ce-c147-44e3-9a34-2b040235d7c8)
+![WhatsApp Image 2024-08-25 at 20 02 06_31f5c6a5](https://github.com/user-attachments/assets/c532d2fc-de53-46f5-b1ff-4705b87999e8)
+![WhatsApp Image 2024-08-25 at 20 02 24_79648ae4](https://github.com/user-attachments/assets/a6d143ef-dada-4194-b0dc-bcb15df2aa56)
 
 ### Result:
+Sentimental Analysis is been done with RapidMiner Software.
